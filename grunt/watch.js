@@ -30,7 +30,7 @@ module.exports = {
                 'src/**/*.html'
             ],
             tasks: [
-                /*'sass:dev'*/
+                'htmlmin:dist'
             ]
         },
 
